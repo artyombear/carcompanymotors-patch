@@ -1,9 +1,0 @@
-{
-  "files": [
-    {
-      "path": "Managed/Assembly-CSharp.dll",
-      "url": "https://raw.githubusercontent.com/artyombear/carcompanymotors-patch/main/patch/Assembly-CSharp.dll",
-      "hash": "E3A04D578412C2322FB1D40D2D1647C7"  // сюда вставим хеш
-    }
-  ]
-}
