@@ -2,13 +2,8 @@
   "files": [
     {
       "path": "Managed/Assembly-CSharp.dll",
-      "url": "https://raw.githubusercontent.com/ArtyomDev/car-patch/main/patch/Managed/Assembly-CSharp.dll",
-      "hash": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    {
-      "path": "StreamingAssets/ui.bundle",
-      "url": "https://raw.githubusercontent.com/ArtyomDev/car-patch/main/patch/StreamingAssets/ui.bundle",
-      "hash": "abcdef1234567890"
+      "url": "https://raw.githubusercontent.com/artyombear/carcompanymotors-patch/main/patch/Assembly-CSharp.dll",
+      "hash": "E3A04D578412C2322FB1D40D2D1647C7"  // сюда вставим хеш
     }
   ]
 }
